@@ -8,7 +8,7 @@ This repository serves as the official documentation and master record for the S
 
 * **Live Web Application & Prototypes:** https://daraz-sad.vercel.app/
 * **Frontend Source Code Repository:** https://github.com/Md-Abdullah-Al-Afif/Daraz_SAD
-* **Project Presentation Slides:** https://github.com/Md-Abdullah-Al-Afif/Academic-Presentations/blob/main/Daraz_SAD_Presentation.pptx
+* **Project Presentation Slides:** https://github.com/Md-Abdullah-Al-Afif/Academic-Presentations/blob/main/Daraz_SAD_Presentation.pdf
 
 ---
 
